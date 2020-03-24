@@ -1,0 +1,11 @@
+08:01:00:00 newcust
+09:10:00:00 newcust
+09:10:10:00 newcust
+09:10:20:00 newcust
+10:01:00:00 newcust
+11:10:00:00 newcust
+12:10:10:00 newcust
+13:10:20:00 newcust
+14:10:20:00 newcust
+15:10:20:00 newcust
+16:20:40:00 next
